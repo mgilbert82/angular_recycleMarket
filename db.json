@@ -1,0 +1,50 @@
+{
+  "productList": [
+    {
+      "productName": "Iphone 11",
+      "productCategory": "apple",
+      "condition": "Good",
+      "price": 400,
+      "date": "2023-03-08T23:00:00.000Z",
+      "comment": "Hello world !",
+      "id": 1
+    },
+    {
+      "productName": "Note 9",
+      "productCategory": "samsung",
+      "condition": "its ok",
+      "price": 123,
+      "date": "2023-03-07T23:00:00.000Z",
+      "comment": "Yeah man",
+      "id": 2
+    },
+    {
+      "productName": "Iphone 11",
+      "productCategory": "apple",
+      "condition": "its ok",
+      "price": 214,
+      "date": "2023-03-08T23:00:00.000Z",
+      "comment": "Hello world !",
+      "id": 3
+    },
+    {
+      "productName": "Nokia",
+      "productCategory": "huawei",
+      "condition": "Very good",
+      "price": 290,
+      "date": "2023-02-28T23:00:00.000Z",
+      "comment": "Yeah it's cool",
+      "id": 4
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
